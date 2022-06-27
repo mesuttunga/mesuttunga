@@ -2,7 +2,7 @@
 
 **DevOps Engineer | Cloud Infrastructure Specialist | Container Orchestration**
 
-I build and deploy production cloud infrastructure with Kubernetes, AWS and Infrastructure as Code. Currently architecting containerized applications and automated CI/CD pipelines for e-commerce platforms.
+I build and deploy production cloud infrastructure with Kubernetes, AWS and Infrastructure as Code. Currently architecting containerized applications and automated CI/CD pipelines for e-commerce platforms..
 
 ---
 
