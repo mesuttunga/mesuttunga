@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mesut TUNGA
+# 👋 Hi, I am Mesut TUNGA
 
 💡 **Senior Hosting Support Engineer | Linux Administrator | Aspiring DevOps Engineer**  
 🔧 25+ years of experience working with **LAMP stack, DNS, Email Deliverability, and Web Hosting**  
