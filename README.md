@@ -1,7 +1,7 @@
 # 👋 Hi, I am Mesut TUNGA
 
 💡 **Linux Administrator | Senior Hosting Engineer | DevOps-Focused Builder**  
-🔧 25+ years working with **Linux, LAMP stack, DNS, email deliverability, and hosting infrastructure**  
+🔧 20+ years working with **Linux, LAMP stack, DNS, email deliverability, and hosting infrastructure**  
 ☁️ Now focusing on **DevOps, automation, IaC, containers, and cloud systems**
 
 I like turning complex server problems into simple automated solutions.
