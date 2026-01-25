@@ -56,7 +56,6 @@ Apache • Nginx • PHP • JavaScript • REST APIs
 - Building **automated deployment pipelines** with GitHub Actions
 - Operating **multi-node Kubernetes clusters** with production monitoring
 - Implementing **cost optimization** with auto-scaling and right-sizing
-- Preparing for **AWS Solutions Architect Associate** certification (Dec 2025)
 
 ---
 
